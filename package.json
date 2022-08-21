@@ -9,7 +9,7 @@
     "format": "prettier --write ."
   },
   "dependencies": {
-    "@sapphire/prettier-config": "^1.4.3",
+    "@sapphire/prettier-config": "^1.4.4",
     "@sapphire/ts-config": "^3.3.4",
     "@types/node": "^18.6.3",
     "c8": "^7.12.0",
